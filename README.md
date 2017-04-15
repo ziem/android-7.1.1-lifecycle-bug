@@ -1,4 +1,4 @@
-# lifecycle-bug-7.1.1
+# android-7.1.1-lifecycle-bug
 
 **Nexus 5X (7.1.1 and 7.1.2)**
 1. onActivityPaused: MainActivity
