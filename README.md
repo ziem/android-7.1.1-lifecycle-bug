@@ -11,7 +11,7 @@
 8. onActivityResumed: MainActivity
 9. onActivityDestroyed: NavigationActivity
 
-** Emulator API 25**
+**Emulator API 25**
 1. onActivityPaused: MainActivity
 2. onActivityCreated: NavigationActivity
 3. startActivity: NavigationActivity
