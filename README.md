@@ -41,3 +41,6 @@
 5. onNewIntent: MainActivity
 6. onActivityResumed: MainActivity
 7. onActivityDestroyed: NavigationActivity
+
+
+Bug report: https://issuetracker.google.com/issues/37884514
